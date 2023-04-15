@@ -8,6 +8,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - This repo can be used to boostrap any project that uses, Nextjs, Typescript and all the prisma set-up already done.
 
+- I do not intend to continue with the tutorial, but to use this repo to scafold new nextjs project with Typescript and Prisma
+
+- The repo for the talk can be found at [this link](https://github.com/ahaywood/taskglitter__nextjs)
+
 ## Getting Started
 
 First, run the development server:
